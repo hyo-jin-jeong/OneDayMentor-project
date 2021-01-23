@@ -1,0 +1,97 @@
+@charset "UTF-8";
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.dateTop {
+	position: relative;
+	display: block;
+	text-align: center;
+	background-color: #c4c4c4;
+	width: auto;
+	padding: 5px;
+	margin: 0 auto;
+	color: white;
+	border-radius: 15px;
+}
+
+.my_message>.tooltip {
+	position: relative;
+	display: block;
+	background-color: #f0c8c4;
+	width: 160px;
+	left: 50%;
+	top: 10px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	bottom: 40px;
+	border-radius: 10px;
+	padding: 10px;
+	color: white;
+	border: 1px solid black;
+}
+
+.my_message>.date {
+	display: block;
+	text-align: right;
+	margin-right: 20px;
+	font-size: 12px;
+}
+
+.you_message>.tooltip {
+	position: relative;
+	display: block;
+	background-color: #7984c4;
+	width: 160px;
+	left: 10%;
+	top: 10px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border-radius: 10px;
+	bottom: 40px;
+	padding: 10px;
+	color: white;
+	border: 1px solid black;
+}
+
+.you_message>.date {
+	display: block;
+	text-align: left;
+	margin-left: 20px;
+	font-size: 12px;
+}
+
+body {
+	font-family: 'LotteMartDream';
+	font-style: normal;
+	font-weight: 400;
+	src:
+		url('//cdn.jsdelivr.net/korean-webfonts/1/corps/lottemart/LotteMartDream/LotteMartDreamMedium.woff2')
+		format('woff2'),
+		url('//cdn.jsdelivr.net/korean-webfonts/1/corps/lottemart/LotteMartDream/LotteMartDreamMedium.woff')
+		format('woff');
+}
+
+@font-face {
+	font-family: 'LotteMartDream';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		url('//cdn.jsdelivr.net/korean-webfonts/1/corps/lottemart/LotteMartDream/LotteMartDreamBold.woff2')
+		format('woff2'),
+		url('//cdn.jsdelivr.net/korean-webfonts/1/corps/lottemart/LotteMartDream/LotteMartDreamBold.woff')
+		format('woff');
+}
+
+@font-face {
+	font-family: 'LotteMartDream';
+	font-style: normal;
+	font-weight: 300;
+	src:
+		url('//cdn.jsdelivr.net/korean-webfonts/1/corps/lottemart/LotteMartDream/LotteMartDreamLight.woff2')
+		format('woff2'),
+		url('//cdn.jsdelivr.net/korean-webfonts/1/corps/lottemart/LotteMartDream/LotteMartDreamLight.woff')
+		format('woff');
+}
