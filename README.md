@@ -33,9 +33,10 @@
 
 
 
-### 프로젝트
-
-
+### 프로젝트 작동 모습
+![1](https://user-images.githubusercontent.com/56016350/105573387-92901a00-5da0-11eb-897f-c1207c6218dc.gif)
+![2](https://user-images.githubusercontent.com/56016350/105573395-a50a5380-5da0-11eb-8648-2b8721f856e1.gif)
+![3](https://user-images.githubusercontent.com/56016350/105573396-a6d41700-5da0-11eb-8705-d979bdecef2d.gif)
 
 
 
